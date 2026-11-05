@@ -65,7 +65,7 @@ These are **planned features**, not existing functionality:
 
 NavbatGo is at an early stage. Feedback, issue reports, and technical suggestions are welcome. Please open a GitHub issue to discuss a problem or proposal before undertaking a large change.
 
-A formal contribution guide and an open-source license have not yet been added. Until a license is published, public access to the code should **not** be interpreted as permission to copy, modify, or redistribute it.
+NavbatGo is licensed under the [MIT License](LICENSE) (Copyright © 2026 Farrukh Saidov). A formal contribution guide has not yet been added; please open an issue before proposing substantial changes.
 
 ## Project owner
 
